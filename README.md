@@ -32,3 +32,6 @@ https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential-ebook/dp/B01M03
 * Н. М. Амосов "Моя система"
 * Микулин!
 * Zen and the art of motorcycle maintance (после сделанной Магической уборки, прочитанного Mindset и, желательно, знакомства с философией)
+
+## В процессе
+* Asking the right questions
