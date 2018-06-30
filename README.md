@@ -44,6 +44,7 @@ http://tolstoy.ru/creativity/publicism/719/
 * Н. М. Амосов "Моя система"
 * Микулин!
 * Zen and the art of motorcycle maintance (после сделанной Магической уборки, прочитанного Mindset и, желательно, знакомства с философией)
+* Дороги за горизонт
 
 ## В процессе
 * Asking the right questions
