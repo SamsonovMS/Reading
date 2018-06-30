@@ -31,7 +31,7 @@ https://www.amazon.com/Eat-Live-Amazing-Nutrient-Rich-Sustained-ebook/dp/B01CYLT
 * Неделя без жалости к себе
 * Обломов (психотип Штольца и Обломова)
 * Л. Н. Толстой "Для чего люди одурманиваются?"
-http://tolstoy.ru/creativity/publicism/719/
+http://tolstoy.ru/creativity/publicism/719/ \
 Эта статья укрепила меня на позиции абсолютной трезвости.
 * Аудиомонолог Трейси перед изданием первой книги
 * Книга о племенах, рекомендуемая Гейтсом
@@ -47,4 +47,6 @@ http://tolstoy.ru/creativity/publicism/719/
 * Дороги за горизонт
 
 ## В процессе
+* Good to great
 * Asking the right questions
+* Дети Арбата
