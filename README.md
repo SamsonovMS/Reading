@@ -1,4 +1,4 @@
-Список наиболее повлиявших на меня книг и статей. Всегда читал английский вариант, если книга нерусская.
+Список наиболее повлиявших на меня книг и статей. Всегда читал английский вариант, если книга не русская.
 
 #### * Mindset: The new psychology of success (перевод на русский плох)
 https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential-ebook/dp/B01M036N60/ref=sr_1_1?ie=UTF8&qid=1530375256&sr=8-1&keywords=mindset
