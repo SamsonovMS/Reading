@@ -5,7 +5,7 @@
 Посмотрите таблицу https://docs.google.com/document/d/1MpubUCtlrhC4YnZjLrpClJS_w3GimMDwBCUgwZOcwzE/edit?usp=sharing. Подумайте о том, какие утверждения вам ближе. Прочтение этой книги и книг из списка ниже переведет вас в правый столбец во всех аспектах вашей жизни.\
 Есть свидетельства в пользу того, что стиль мышления, формируемый этой книгой, приводит к (1) замедлению старения (см. выступление нобелевского лауреата https://www.ted.com/talks/elizabeth_blackburn_the_science_of_cells_that_never_get_old?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare), (2) успеху в бизнесе https://hbr.org/2014/11/how-companies-can-profit-from-a-growth-mindset. \
 Рекомендую установить приложение Amazon Kindle и скачать в нем бесплатную ознакомительную часть второго издания на английском https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential-ebook/dp/B01M036N60/ref=sr_1_1?ie=UTF8&qid=1530375256&sr=8-1&keywords=mindset. \
-Если хотите читать на русском, попробуйте неофициальный перевод https://goo.gl/cg3V4D. Официальный перевод очень плох.
+Если хотите читать на русском, попробуйте мой перевод https://goo.gl/cg3V4D. Официальный перевод очень плох (например, fixed mindset перевели как установку на данность).
 * Thinking, Fast and Slow (статья, книга) (на русском не понравилось)\
 Желательно знакомство с теорией вероятности и статистикой.
 * Магическая уборка\
