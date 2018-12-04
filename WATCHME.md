@@ -1,4 +1,8 @@
 
+### Исправление осанки (через две недели упражнений поясница перестала болеть после подъема тяжестей!)
+https://www.youtube.com/watch?v=0QAYJliwShs
+в комбинации с еще около 4 видео от того же тренера
+
 ### Техника, с помощью которой можно мгновенно выйти из прокрастинации и залипаний. 
 https://youtu.be/2Lz0VOltZKA
 
@@ -13,3 +17,4 @@ Discomfort is not something to be protected from; it's something to be exposed t
 Discomfort is not struggle (https://dictionary.cambridge.org/dictionary/english/struggle); discomfort is challenge.\
 Discomfort is not diminish us; discomfort empowers us and helps us grow.\
 Discomfort is what the human body and mind is built for.
+
