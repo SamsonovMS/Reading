@@ -11,6 +11,12 @@ https://www.ted.com/talks/erez_yoeli_how_to_motivate_people_to_do_good_for_other
 2. Eliminate excuses - найди и предотврати все отговорки
 3. Comminicate expectations - в правильные моменты напомни, что нужно поступать хорошо (изображение таяния полярных льдов вокруг выключателя света)
 
+### Секрет полиглотов: 1. сделать процесс интересным
+https://www.ted.com/talks/lydia_machova_the_secrets_of_learning_a_new_language
+2. эффективные методы
+3. систематическое, запланированное выделение времени
+4. терпение
+
 ### Техника, с помощью которой можно мгновенно выйти из прокрастинации и залипаний. 
 https://youtu.be/2Lz0VOltZKA
 
